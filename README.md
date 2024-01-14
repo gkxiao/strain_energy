@@ -11,4 +11,9 @@
     <li>Gu, S., Smith, M. S., Yang, Y., Irwin, J. J., & Shoichet, B. K. (2021). Ligand Strain Energy in Large Library Docking. Journal of Chemical Information and Modeling, 61(9), 4331–4341. https://doi.org/10.1021/acs.jcim.1c00368</li>
     <li>Fusani, L., Palmer, D. S., Somers, D. O., & Wall, I. D. (2020). Exploring Ligand Stability in Protein Crystal Structures Using Binding Pose Metadynamics. Journal of Chemical Information and Modeling, 60(3), 1528–1539. https://doi.org/10.1021/acs.jcim.9b00843</li>
     <li>Toenjes, S. T., Heydari, B. S., Albright, S. T., Hazin, R., Ortiz, M. A., Piedrafita, F. J., & Gustafson, J. L. (2023). Controlling Ibrutinib’s Conformations about Its Heterobiaryl Axis to Increase BTK Selectivity. ACS Medicinal Chemistry Letters. https://doi.org/10.1021/acsmedchemlett.2c00523</li>
+    <li>Patrick Penner, Wolfgang Guba, Robert Schmidt, Agnes Meyder, Martin Stahl, Matthias Rarey. The Torsion Library: Semiautomated Improvement of Torsion Rules with SMARTScompare. Journal of Chemical Information and Modeling 2022, 62 (7) , 1644-1653. https://doi.org/10.1021/acs.jcim.2c00043</li>
+    <li>John W. Liebeschuetz. The Good, the Bad, and the Twisted Revisited: An Analysis of Ligand Geometry in Highly Resolved Protein–Ligand X-ray Structures. Journal of Medicinal Chemistry 2021, 64 (11) , 7533-7543. https://doi.org/10.1021/acs.jmedchem.1c00228</li>
+    <li>Nicolas Foloppe, I-Jen Chen. The reorganization energy of compounds upon binding to proteins, from dynamic and solvated bound and unbound states. Bioorganic & Medicinal Chemistry 2021, 51 , 116464. https://doi.org/10.1016/j.bmc.2021.116464</li>
+    <li>Winkler, D. A. (2020). Ligand entropy is hard but should not be ignored. Journal of Chemical Information and Modeling, 60(10), 4421–4423. https://doi.org/10.1021/acs.jcim.0c01146</li>
+    <li></li>
 </ol>
