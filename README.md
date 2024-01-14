@@ -4,6 +4,6 @@
     <li>Dakota L. Folmsbee, David R. Koes, Geoffrey R. Hutchison. Systematic Comparison of Experimental Crystallographic Geometries and Gas-Phase Computed Conformers for Torsion Preferences. Journal of Chemical Information and Modeling 2023, 63 (23) , 7401-7411. https://doi.org/10.1021/acs.jcim.3c01278</li>
     <li>Hongtao Zhao, Jonas Brånalt, Matthew Perry, Christian Tyrchan. The Role of Allylic Strain for Conformational Control in Medicinal Chemistry. Journal of Medicinal Chemistry 2023, 66 (12) , 7730-7755. https://doi.org/10.1021/acs.jmedchem.3c00446</li>
     <li>Ajay N. Jain, Alexander C. Brueckner, Ann E. Cleves, Mikhail Reibarkh, Edward C. Sherer. A Distributional Model of Bound Ligand Conformational Strain: From Small Molecules up to Large Peptidic Macrocycles. Journal of Medicinal Chemistry 2023, 66 (3) , 1955-1971. https://doi.org/10.1021/acs.jmedchem.2c01744</li>
-    <li></li>
+    <li>Rai, B. K., Sresht, V., Yang, Q., Unwalla, R., Tu, M., Mathiowetz, A. M., Bakken, G. A., K. Rai, B., Sresht, V., Yang, Q., Unwalla, R., Tu, M., M. Mathiowetz, A., A. Bakken, G., Rai, B. K., Sresht, V., Yang, Q., Unwalla, R., Tu, M., … Bakken, G. A. (2019). Comprehensive Assessment of Torsional Strain in Crystal Structures of Small Molecules and Protein–Ligand Complexes using ab Initio Calculations. Journal of Chemical Information and Modeling, 59(10), 4195–4208. https://doi.org/10.1021/acs.jcim.9b00373</li>
     <li></li>
 </ol>
